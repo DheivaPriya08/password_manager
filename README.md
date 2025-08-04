@@ -32,7 +32,7 @@ This application was developed as a **personal learning and portfolio project**.
 | Layer      | Tools                    |
 |------------|--------------------------|
 | Language   | Python 3                 |
-| UI         | [Gradio](https://gradio.app/)       |
+| UI         | [Gradio](https://password-manager-1-qsvy.onrender.com/gradio)       |
 | Backend    | FastAPI + Uvicorn        |
 | Security   | Cryptography (Fernet)    |
 | Storage    | Pandas + CSV             |
